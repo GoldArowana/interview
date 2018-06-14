@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [java](Java/a.md)
-* [123](123.md)
-    * [123](123.md)
-        * [123](123.md)
-            * [123](123.md)
+    * [volatile](Java/volatile.md)
+* [c](c/README.md)
+    * [sample](c/sample.md)
+        
