@@ -2,5 +2,6 @@
 #include<stdio.h>
 main(){
     ...
+    ...
 }
 ```
