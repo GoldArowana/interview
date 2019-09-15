@@ -56,7 +56,7 @@ public void run() {
 继承Thread类的方式：run()整个都被重写
 
 
-## start()原理
+## start()源码&原理
 1. 首先判断线程状态是否为0
 1. 加入线程组
 1. 执行start0()方法
