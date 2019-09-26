@@ -1,4 +1,4 @@
-# learning-学习笔记
+# learning-技术学习笔记
 ## [Java语言](java/README.md)
 ### [并发](java-concurrency/README.md)
 - [实现多线程的两种方式](impl-multi-thread.md)
@@ -30,3 +30,6 @@
 
 ## 计算机网络
 
+# learning-非技术学习笔记
+
+## [韩语](./korean/README.md)
