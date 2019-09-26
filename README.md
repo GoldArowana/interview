@@ -1,35 +1,112 @@
-# learning-技术学习笔记
-## [Java语言](java/README.md)
-### [并发](java-concurrency/README.md)
-- [实现多线程的两种方式](impl-multi-thread.md)
-- [停止线程](stop-thread.md)
-- [synchronized](synchronized.md)
+<img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
+
+## 目录
+learning-技术相关
+- [Java](#java)
+    - [java基础](#java基础)
+    - [java并发](#java并发)
+    - [JMM](#JMM)
+    - [JVM](#jvm)
+    - [Java 8](#java-8)
+    - [Java 9](#java-9)
+    - [Java 10](#java-10)
+    - [Java编程规范](#Java编程规范)
+    - [maven](#maven)
+    - [mybatis](#mybatis)
+    - [vertx](#vertx)
+    - [spring](#spring)
+    - [netty](#netty)
+- [Golang](#Golang)
+    - [Go语言基础](#Go语言基础)
+- [网络](#网络)
+- [操作系统](#操作系统)
+    - [Linux相关](#linux相关)
+    - [MacOS相关](#MacOS相关)
+- [数据结构与算法](#数据结构与算法)
+    - [数据结构](#数据结构)
+    - [算法](#算法)
+- [数据库](#数据库)
+    - [MySQL](#mysql)
+    - [Redis](#redis)
+- [设计模式](#设计模式)
+- [架构](#架构)
+- [面试指南](#面试指南)
+    - [备战面试](#备战面试)
+    - [常见面试题总结](#常见面试题总结)
+    - [面经](#面经)
+- [工具](#工具)
+    - [Git](#git)
+    - [Docker](#Docker)
+    - [thrift](#thrift)
+    - [IDEA](#IDEA)
+- [资源](#资源)
+    - [书单](#书单)
+- [读书笔记](#读书笔记)
+- [每天阅读一篇技术文章](#每天阅读一篇技术文章)
+    
+learning-非技术相关
+- [韩语](#韩语)
+- [菜谱](#菜谱)
+    
+## Java
+### java基础
+### java并发
+* [实现多线程的两种方式](java/java-concurrency/impl-multi-thread.md)
+* [停止线程](java/java-concurrency/stop-thread.md)
+* [synchronized](java/java-concurrency/synchronized.md)
 ### jmm
-
+### jvm
+### java 8
+### java 9
+### java 10
+### Java编程规范
 ### maven
-
 ### mybatis
-
-### thrift
-
 ### vertx
-
 ### spring
+### netty
 
-## [Golang](./golang/README.md)
+## Golang
+### Go语言基础
+[Golang](./golang/README.md)
 
-## [Docker](./docker/README.md)
+## 网络
 
-## [git](./git/README.md)
+## 操作系统
+### linux相关
+### MacOS相关
 
-## IDE & 开发工具
+## 数据结构与算法
+### 数据结构
+### 算法
 
-## Linux
+## 数据库
+### MySQL
+### Redis
 
-## MacOS
+## 设计模式
 
-## 计算机网络
+## 架构
 
-# learning-非技术学习笔记
+## 面试指南
+### 备战面试
+### 常见面试题总结
+### 面经
 
-## [韩语](./korean/README.md)
+## 工具
+### git
+ [git](./git/README.md)
+### Docker
+[Docker](./docker/README.md)
+### thrift
+### IDEA
+
+## 读书笔记
+
+## 每天阅读一篇技术文章
+
+## 韩语
+[韩语](./korean/README.md)
+
+## 菜谱
+[菜谱](./cookery/README.md)
