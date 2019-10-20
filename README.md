@@ -68,7 +68,9 @@ learning-非技术相关
 
 ## Golang
 ### Go语言基础
-[Golang](./golang/README.md)
+* [Go语言第一段代码-helloworld](./golang/helloworld.md)
+* [Go语言变量和常量](./golang/variable.md)
+
 
 ## 网络
 
