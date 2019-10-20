@@ -70,6 +70,10 @@ learning-非技术相关
 ### Go语言基础
 * [Go语言第一段代码-helloworld](./golang/helloworld.md)
 * [Go语言变量和常量](./golang/variable.md)
+* [Go语言分支语句if和switch](./golang/if_switch.md)
+* [Go语言循环语句for](./golang/loop.md)
+* [Go语言正则表达式](./golang/AtomicIntegerWithMutex.md)
+* [Go语言使用Mutex模拟AtomicInteger](./golang/regex.md)
 
 
 ## 网络
