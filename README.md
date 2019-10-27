@@ -1,4 +1,7 @@
 <img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
+<img src="https://img.shields.io/badge/学习-learn-brightgreen.svg" alt="阅读"></a>
+<img src="https://img.shields.io/badge/校招-school-brightgreen.svg" alt="阅读"></a>
+<img src="https://img.shields.io/badge/面试-interview-brightgreen.svg" alt="阅读"></a>
 
 ## 目录
 learning-技术相关
@@ -39,7 +42,8 @@ learning-技术相关
     - [Docker](#Docker)
     - [thrift](#thrift)
     - [IDEA](#IDEA)
-- [资源](#资源)
+- [其他资源](#其他资源)
+    - [校招](#校招)
     - [书单](#书单)
 - [读书笔记](#读书笔记)
 - [每天阅读一篇技术文章](#每天阅读一篇技术文章)
@@ -89,7 +93,8 @@ learning-非技术相关
 ## 数据库
 ### MySQL
 ### Redis
-
+#### 其他
+ [Redis学习资料](./db/redis/source.md)
 ## 设计模式
 
 ## 架构
@@ -106,6 +111,10 @@ learning-非技术相关
 [Docker](./docker/README.md)
 ### thrift
 ### IDEA
+
+## 其他资源
+### 校招
+### 书单
 
 ## 读书笔记
 
