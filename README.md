@@ -94,7 +94,7 @@ learning-非技术相关
 ### MySQL
 ### Redis
 #### 其他
- [Redis学习资料](./db/redis/source.md)
+ [Redis学习路线及学习资料](./db/redis/source.md)
 ## 设计模式
 
 ## 架构
